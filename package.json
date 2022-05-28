@@ -1,0 +1,30 @@
+{
+  "name": "trekkers-api",
+  "version": "1.0.0",
+  "description": "trekkers api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triosihn1/trekkers-api.git"
+  },
+  "keywords": [
+    "YNTKTS"
+  ],
+  "author": "triosihn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/triosihn1/trekkers-api/issues"
+  },
+  "homepage": "https://github.com/triosihn1/trekkers-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
